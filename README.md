@@ -8,3 +8,5 @@ There are three sketches:
 **timelapse-sd.ino** capture and write photos to a microSD card reader.
 
 **timelapse-server.ino** capture and send photos to a server on the internet.
+
+More information on my blog here: https://robotzero.one/time-lapse-esp32-cameras/
